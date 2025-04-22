@@ -1,5 +1,6 @@
 streamlit
 pandas
 opencv-python
+dlib
 face_recognition
 numpy
